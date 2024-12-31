@@ -153,4 +153,6 @@ for i in range(0, len(st.session_state.pokemons), 3 ):
                     del st.session_state.pokemons[i+j]
                     st.rerun()
 
-####
+# git config --global user.name "IS So"
+# git config --global user.email soinsubs1@gmail.com
+# git remote add origin https://github.com/InsubSo/practice_streamlit.git
